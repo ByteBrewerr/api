@@ -1,114 +1,116 @@
-{
-  "categories": {
-    "burgers": {
-      "rocky": {
-        "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/40b373a2f9317be0ee2608da5819ce23.jpg?v1667762596",
-        "id": "",
-        "name": "Рокки",
-        "description": "Говяжья котлета, соус parmegiano, блючиз, брусничный соус, сыр эмменталь, жареный бекон",
-        "price": "310",
-        "quantity":"Стандартный",
-        "isPopular": false
-      },
-      "mushroomBurger": {
-        "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/9d374432fdeba79500fb23ebf20555f8.jpg?v1667762998",
-        "id": "",
-        "name": "Гриб Грибыч",
-        "description": "Говяжья котлета, жареные шампиньоны, маринованые огурцы, хрустящий лук и чесночный соус",
-        "price": "285",
-        "quantity":"Стандартный",
-        "isPopular": false
-      },
-      "boy": {
-        "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/aed76fc9c0c30049351d50f533ecb518.jpg?v1649795869",
-        "id": "",
-        "name": "Кимрский Пацан",
-        "description": "Оооо, об этом парне ходят легенды! Хит продаж! Сочная котлета, жареный бекон и маринованный лучок — не оставят тебя равнодушным!",
-        "price": "285",
-        "quantity": "Стандартный",
-        "isPopular": false
-      },
-      "fedDad": {
-        "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/d4be1ff43abe5fe39d092270c2240e67.jpg?v1621455374",
-        "id": "",
-        "name": "Сытый Папа",
-        "description": "Говяжья котлета, плавленный сыр чеддер, свежая помидорка, маринованные огурчики и фирменный соус",
-        "price": "255",
-        "quantity": "Стандартный",
-        "isPopular": false
-      },
-      "bigDaddy": {
-        "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/65a2b6d45858807df14c7be4e296f5f0.jpg?v1671570036",
-        "id": "",
-        "name": "Взрослый Дядя",
-        "description": "Увеличенная говяжья котлета, салат айсберг, свежая помидорка и фирменный соус",
-        "price": "300",
-        "quantity": "Стандартный",
-        "isPopular": false
-      },
-      "egoists": {
-        "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/7cdb22c4794cef59739ef63ef413f4ba.jpg?v1621455477",
-        "id": "",
-        "name": "EGG оист",
-        "description": "Говяжья котлета, помидорка, жареное яйцо, плавленный сыр эмменталь, карамелизированный сушеный лук и кетчуп",
-        "price": "265",
-        "quantity": "Стандартный",
-        "isPopular": false
-      },
-      "cheeseNut": {
-        "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/24dc40e7f9bfaff64d2540efe2c79562.jpg?v1621455450",
-        "id": "",
-        "name": "Сырный Псих",
-        "description": "Две говяжьих котлет прожарки медиум,сырные палочки, много плавленного сыра чеддер",
-        "price": "425",
-        "quantity": "Стандартный",
-        "isPopular": false
-      },
-      "logger": {
-        "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/1507b8c31d61df9cd5ffe152a78ec94d.jpg?v1671571324",
-        "id": "",
-        "name": "Саня Лесоруб",
-        "description": "Говяжья котлета, помидорка, перец халапеньо и фирменный соус",
-        "price": "265",
-        "quantity": "Стандартный",
-        "isPopular": false
-      },
-      "chickenBurger": {
-        "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/6d8a0885a9f48e732cbb5b60f95be53c.jpg?v1621455520",
-        "id": "",
-        "name": "Курячий Бутер",
-        "description": "Куриные стрипсы, салат айсберг, свежая помидорка и соус «Цезарь»",
-        "price": "260",
-        "quantity": "Стандартный",
-        "isPopular": false
-      },
-      "senor": {
-        "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/963f8bfe313b328d535bbaec59b3e0b2.jpg?v1671571070",
-        "id": "",
-        "name": "Синьор Помидор",
-        "description": "Говяжья котлета, сыр чеддер, вяленые помидоры,плавленный сыр моцарелла и соус «Песто»",
-        "price": "285",
-        "quantity": "Стандартный",
-        "isPopular": false
-      },
-      "hamburger": {
-        "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/248e48ea4b98dce7ea1c55474ae5ca29.jpg?v1654063489",
-        "id": "",
-        "name": "Гамбургер",
-        "description": "Маленькая говяжья котлета, маринованные огурчики кетчуп",
-        "price": "100",
-        "quantity": "Маленький",
-        "isPopular": false
-      },
-      "cheeseburger": {
-        "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/4961a079d1d0bb8097aa4e29ef839f3f.jpg?v1654063500",
-        "id": "",
-        "name": "Чизбургер",
-        "description": "Маленькая говяжья котлета, маринованные огурчики,сыр чеддер и кетчуп",
-        "price": "110",
-        "quantity": "Маленький",
-        "isPopular": false
+[
+    {
+    "categories": {
+      "burgers": {
+        "rocky": {
+          "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/40b373a2f9317be0ee2608da5819ce23.jpg?v1667762596",
+          "id": "",
+          "name": "Рокки",
+          "description": "Говяжья котлета, соус parmegiano, блючиз, брусничный соус, сыр эмменталь, жареный бекон",
+          "price": "310",
+          "quantity":"Стандартный",
+          "isPopular": false
+        },
+        "mushroomBurger": {
+          "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/9d374432fdeba79500fb23ebf20555f8.jpg?v1667762998",
+          "id": "",
+          "name": "Гриб Грибыч",
+          "description": "Говяжья котлета, жареные шампиньоны, маринованые огурцы, хрустящий лук и чесночный соус",
+          "price": "285",
+          "quantity":"Стандартный",
+          "isPopular": false
+        },
+        "boy": {
+          "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/aed76fc9c0c30049351d50f533ecb518.jpg?v1649795869",
+          "id": "",
+          "name": "Кимрский Пацан",
+          "description": "Оооо, об этом парне ходят легенды! Хит продаж! Сочная котлета, жареный бекон и маринованный лучок — не оставят тебя равнодушным!",
+          "price": "285",
+          "quantity": "Стандартный",
+          "isPopular": false
+        },
+        "fedDad": {
+          "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/d4be1ff43abe5fe39d092270c2240e67.jpg?v1621455374",
+          "id": "",
+          "name": "Сытый Папа",
+          "description": "Говяжья котлета, плавленный сыр чеддер, свежая помидорка, маринованные огурчики и фирменный соус",
+          "price": "255",
+          "quantity": "Стандартный",
+          "isPopular": false
+        },
+        "bigDaddy": {
+          "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/65a2b6d45858807df14c7be4e296f5f0.jpg?v1671570036",
+          "id": "",
+          "name": "Взрослый Дядя",
+          "description": "Увеличенная говяжья котлета, салат айсберг, свежая помидорка и фирменный соус",
+          "price": "300",
+          "quantity": "Стандартный",
+          "isPopular": false
+        },
+        "egoists": {
+          "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/7cdb22c4794cef59739ef63ef413f4ba.jpg?v1621455477",
+          "id": "",
+          "name": "EGG оист",
+          "description": "Говяжья котлета, помидорка, жареное яйцо, плавленный сыр эмменталь, карамелизированный сушеный лук и кетчуп",
+          "price": "265",
+          "quantity": "Стандартный",
+          "isPopular": false
+        },
+        "cheeseNut": {
+          "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/24dc40e7f9bfaff64d2540efe2c79562.jpg?v1621455450",
+          "id": "",
+          "name": "Сырный Псих",
+          "description": "Две говяжьих котлет прожарки медиум,сырные палочки, много плавленного сыра чеддер",
+          "price": "425",
+          "quantity": "Стандартный",
+          "isPopular": false
+        },
+        "logger": {
+          "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/1507b8c31d61df9cd5ffe152a78ec94d.jpg?v1671571324",
+          "id": "",
+          "name": "Саня Лесоруб",
+          "description": "Говяжья котлета, помидорка, перец халапеньо и фирменный соус",
+          "price": "265",
+          "quantity": "Стандартный",
+          "isPopular": false
+        },
+        "chickenBurger": {
+          "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/6d8a0885a9f48e732cbb5b60f95be53c.jpg?v1621455520",
+          "id": "",
+          "name": "Курячий Бутер",
+          "description": "Куриные стрипсы, салат айсберг, свежая помидорка и соус «Цезарь»",
+          "price": "260",
+          "quantity": "Стандартный",
+          "isPopular": false
+        },
+        "senor": {
+          "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/963f8bfe313b328d535bbaec59b3e0b2.jpg?v1671571070",
+          "id": "",
+          "name": "Синьор Помидор",
+          "description": "Говяжья котлета, сыр чеддер, вяленые помидоры,плавленный сыр моцарелла и соус «Песто»",
+          "price": "285",
+          "quantity": "Стандартный",
+          "isPopular": false
+        },
+        "hamburger": {
+          "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/248e48ea4b98dce7ea1c55474ae5ca29.jpg?v1654063489",
+          "id": "",
+          "name": "Гамбургер",
+          "description": "Маленькая говяжья котлета, маринованные огурчики кетчуп",
+          "price": "100",
+          "quantity": "Маленький",
+          "isPopular": false
+        },
+        "cheeseburger": {
+          "img": "https://ru.foodsoul.pro/uploads/branches/6851/images/items/medium/4961a079d1d0bb8097aa4e29ef839f3f.jpg?v1654063500",
+          "id": "",
+          "name": "Чизбургер",
+          "description": "Маленькая говяжья котлета, маринованные огурчики,сыр чеддер и кетчуп",
+          "price": "110",
+          "quantity": "Маленький",
+          "isPopular": false
+        }
       }
     }
   }
-}
+]
